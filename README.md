@@ -27,7 +27,7 @@ Not sure how to get started with Conventional? Check out [the sample repository]
 
     Install-Package Best.Conventional.Roslyn
 
-Rolsyn-based conventions target `net6.0`. Check out [the documentation](https://github.com/andrewabest/Conventional/wiki/Roslyn-Conventions) for more information.
+Rolsyn-based conventions target `net6.0` and `net8.0`. Check out [the documentation](https://github.com/andrewabest/Conventional/wiki/Roslyn-Conventions) for more information.
 
 ## Contributing
 
